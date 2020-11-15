@@ -33,7 +33,7 @@ p {
 .main-visual {
     width: 100%;
     height: 120%;
-    background: #fff url(img/saisuta_consa.png) 0 0 no-repeat;
+    background: #fff url(img/main-iwata.png) 0 0 no-repeat;
     background-size: cover;
 }
 
@@ -181,6 +181,48 @@ p {
 }
 
 #kyoto_tx .kyoto_2{
+    width: 50%;
+    height: 480px;
+    float: left;
+}
+
+#suita_main {
+    margin: 300px auto 0;
+    background-image: url(img/suita_main.jpg);
+    background-size: cover;
+    width: 90%;
+    height: 70%;
+}
+
+#suita_main .suitalogo {
+    width: 70%;
+    margin-left: 300px;
+    margin-top: 0px;
+}
+
+#suita_tx {
+    width: 100%;
+    height: 480px;
+    background-color: antiquewhite;
+    margin: 100px auto;
+}
+
+#suita_tx h1 {
+    padding-top: 15px;
+    margin-left: 52%;
+    font-size: 50px;
+    font-family: 'Noto Serif JP', serif;
+}
+
+#suita_tx h2{
+    font-size: 20px;
+    margin-left: 55%;
+    margin-right: 50px;
+    font-family: 'Noto Serif JP', serif;
+    line-height: 40px;
+}
+
+#suita_tx .suita_2{
     width: 50%;
     height: 480px;
     float: left;
